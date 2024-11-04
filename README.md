@@ -2,6 +2,8 @@
 ### 结构说明：
 #### testdata.txt-----------------------------本次作业数据集
 #### cleaned_testdata.txt---------------------处理后的数据集
+#### largest_family_ancestry_edges.csv--------最大家庭图谱数据
+#### GraphData.ipynb--------------------------数据处理和分析主要代码
 #### load_cleaned_data.py---------------------利用处理后的数据集导入到Neo4j中
-#### load_largest_family_data.csv-------------利用处理后的数据集导入到Neo4j中
+#### load_largest_family_data.py-------------利用处理后的数据集导入到Neo4j中
 #### Cypher查询代码.txt-----------------------Neo4j中用到的查询语句
