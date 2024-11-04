@@ -3,6 +3,7 @@
 #### testdata.txt-----------------------------本次作业数据集
 #### cleaned_testdata.txt---------------------处理后的数据集
 #### largest_family_ancestry_edges.csv--------最大家庭图谱数据
+#### family_ancestry_horizontal.svg-----------最大家庭图谱数据可视化
 #### GraphData.ipynb--------------------------数据处理和分析主要代码
 #### load_cleaned_data.py---------------------利用处理后的数据集导入到Neo4j中
 #### load_largest_family_data.py-------------利用处理后的数据集导入到Neo4j中
